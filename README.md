@@ -28,11 +28,13 @@ Table View: Organized rows and columns for detailed information.
 Card View: Visually appealing grid layout with individual cards for each book.
 Toggle between views using the Table and Card buttons.
 <br/>
+<br/>
 **Add New Book**
 
 Navigate to the "Add Book" page by clicking the Add Book button (plus icon).
 Fill in the required details such as title, author, and publish year to create a new book.
 The new book is saved to the MongoDB database via the backend.
+<br/>
 <br/>
 **View Book Details**
 
