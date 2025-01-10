@@ -19,6 +19,6 @@ API endpoints for CRUD operations (/books).
 
 **Technologies Used** <br/>
 <br/>
-Frontend: React, React Router, React Icons, Tailwind CSS.
+Frontend: React, React Router, React Icons, Tailwind CSS.<br/>
 Backend: Node.js, Express, Mongoose.
 Database: MongoDB.
