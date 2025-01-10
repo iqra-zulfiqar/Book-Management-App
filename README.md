@@ -27,19 +27,23 @@ Display a list of books fetched from the backend in two different formats:
 Table View: Organized rows and columns for detailed information.
 Card View: Visually appealing grid layout with individual cards for each book.
 Toggle between views using the Table and Card buttons.
+<br/>
 **Add New Book**
 
 Navigate to the "Add Book" page by clicking the Add Book button (plus icon).
 Fill in the required details such as title, author, and publish year to create a new book.
 The new book is saved to the MongoDB database via the backend.
+<br/>
 **View Book Details**
 
 Click on a specific book entry in the list to view its detailed information.
 See properties like ID, title, author, publish year, and timestamps (created at, updated at). <br/>
+<br/>
 **Edit Book**
 
 Navigate to the "Edit Book" page for a specific book by selecting the edit option.
 Modify the book details and save changes, which are updated in the database. <br/>
+<br/>
 **Delete Book**
 
 Delete a book using the delete option from the table or card view.
