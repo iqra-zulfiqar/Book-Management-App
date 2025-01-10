@@ -1,7 +1,7 @@
 **Book Management App - MERN Stack** <br/>
 This project is a Book Management Application built using React, Node.js, Express, and MongoDB. It provides a complete CRUD (Create, Read, Update, Delete) functionality for managing a collection of books, including different views like a table and card view for displaying books.
 
-**Features**
+**Features** <br/>
 **Frontend**
 
 React-based UI with reusable components like Navbar, BooksTable, and BooksCard.
