@@ -18,6 +18,7 @@ Mongoose-based connection to MongoDB with a Book model.
 API endpoints for CRUD operations (/books).
 
 **Technologies Used** <br/>
+<br/>
 Frontend: React, React Router, React Icons, Tailwind CSS.
 Backend: Node.js, Express, Mongoose.
 Database: MongoDB.
