@@ -8,7 +8,7 @@ React-based UI with reusable components like Navbar, BooksTable, and BooksCard.
 Toggle between Table and Card views for displaying books.
 Dynamic routing with react-router-dom for navigation (e.g., Create, Edit, Delete, and Show Book pages).
 Interactive UI with loading indicators using the Spinner component.
-Responsive design powered by Tailwind CSS.
+Responsive design powered by Tailwind CSS. <br/>
 **Backend**
 
 Node.js + Express server with structured routing and middleware.
