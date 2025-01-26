@@ -1,6 +1,9 @@
 **Book Store App - MERN Stack** <br/>
 This project is a Book Management Application built using React, Node.js, Express, and MongoDB. It provides a complete CRUD (Create, Read, Update, Delete) functionality for managing a collection of books, including different views like a table and card view for displaying books.
 
+![Screenshot 2025-01-27 021705](https://github.com/user-attachments/assets/62b6a831-9573-4a83-b123-94501c1cb8b6)
+
+
 **Features of App** <br/>
 <br/>
 **Frontend**
